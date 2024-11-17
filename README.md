@@ -14,7 +14,7 @@
 
 > Install [Grid Legion](https://github.com/chatblancdsc/off-the-grid-cheat) `IMPORTANT: Install it from realase section.`
 >
-> Launch it before The Finals:
+> Launch it before Off The Grid:
 
 ---
 
